@@ -16,6 +16,7 @@ body {
      padding: 20px;
 }
 
+
 .jumbotron {
 	position: relative;
 	background: none;
@@ -31,4 +32,9 @@ body {
      right: 0;
      position: absolute;
      z-index: -1;	
+}
+
+
+.project p{
+     font-variant: small-caps;
 }
